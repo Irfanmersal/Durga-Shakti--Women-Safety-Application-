@@ -1,13 +1,3 @@
-# ⚡ Spark Women - A Women Safety Application
-## _Feel Safe Everywhere_
-
-
-Women Safety App is user friendly application built in Android Studio,
-it is simple to implement,easy to understand.
-
-Demo Download App : [Click Here](https://drive.google.com/file/d/1ZWB_HUyxm86T6GtpMhTWbOwuw6i7G4Wp/view?usp=sharing)
-
-[<img src="media/SPARKWOMEN.png" />](https://t.me/vinayak_09)
 
 
 
@@ -39,8 +29,5 @@ Hit Run Button !
 ```
 
 ------------
-
-Full Project demonstration Youtube :<br>
-Link - https://youtu.be/NkE4sxeAfFE
 
 **Free Software, Hell Yeah!**
